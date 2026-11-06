@@ -9,6 +9,7 @@ export default defineConfig({
   kind: "province",
   name: "Province of Bulacan",
   shortName: "Bulacan",
+  siteUrl: "https://budget-betterbulacan.vercel.app",
   operator: {
     name: "KyneLaggui",
     url: "https://github.com/KyneLaggui",
